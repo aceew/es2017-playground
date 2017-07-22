@@ -1,0 +1,19 @@
+{
+  "name": "es2017-playground",
+  "version": "1.0.0",
+  "description": "Testing out new things added in es2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es2017"
+  ],
+  "author": "Aaron William <a@aceew.me>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1",
+    "eslint": "^4.3.0"
+  }
+}
